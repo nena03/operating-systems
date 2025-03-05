@@ -1,0 +1,14 @@
+Vreme izvrsavanja je 0.000179 sekundi
+Matrica 1:
+-7 0 1 
+4 -2 -3 
+-2 2 0 
+Suma: 7
+
+Vreme izvrsavanja je 0.000033 sekundi
+Matrica 2:
+3 4 -2 
+-2 3 -7 
+7 2 -9 
+Suma: 19
+
